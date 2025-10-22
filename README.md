@@ -53,4 +53,4 @@ The application is modular, with distinct responsibilities assigned to separate 
 
 ## ✍️ Author
 
-**[LAKSH S DANDARE]** – [Link to your LinkedIn Profile or Portfolio]
+**[ARYAMAN PANDEY]** – [Link to your LinkedIn Profile or Portfolio]
